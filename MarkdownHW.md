@@ -4,5 +4,5 @@
 
 ## Savvy Coders FS goals:
 - ### Complete 12 weeks with the skills, desire and "know-how" to create useful software.
-- ### Network with peers and learn opportunities to use developed skills to jumpstart a career.
+- ### Network with peers and learn opportunities to use developed skills to jump-start a career.
 - ### Leave the cohort with knowledge of future project ideas and paths to take alongside in my new-found career.
