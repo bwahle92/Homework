@@ -10,10 +10,10 @@ My market segment will those who wish to order a late-night meal within a local 
 <a href="https://app.mural.co/t/savvy7321/m/savvy7321/1727540223467/fdd658ec2ed43d457bec436a8a57cc9a664a6c17?sender=u10a69b585dcdfe392a4b2452"Mural></a>
 
 ## **Content Outline** ##
-![Content Outline Page 1](Content Outline p2.png)
-<!-- <img src="Content Outline p1.png" /> -->
-![Content Outline Page 2](Content Outline p2.png)
-<!-- <img src="Content Outline p2.png" /> -->
+<!-- ![Content Outline Page 1](Content Outline p2.png) -->
+<img src="Content Outline p1.png" />
+<!-- ![Content Outline Page 2](Content Outline p2.png) -->
+<img src="Content Outline p2.png" />
 
 ## **SWOT Analysis** ##
 <img src="SWOT Analysis.png" />
