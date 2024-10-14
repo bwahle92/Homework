@@ -10,24 +10,25 @@ My market segment will those who wish to order a late-night meal within a local 
 <a href="https://app.mural.co/t/savvy7321/m/savvy7321/1727540223467/fdd658ec2ed43d457bec436a8a57cc9a664a6c17?sender=u10a69b585dcdfe392a4b2452"Mural></a>
 
 ## **Content Outline** ##
-![Content Outline ps1](docs/Capstone/Images/Content Outline p1.png)
-<!-- <img src="docs/Capstone/Images/Content Outline p1.png" /> -->
-<img src="docs\Capstone\Images\Content Outline p2.png" />
+![Content Outline Page 1](Content Outline p2.png)
+<!-- <img src="Content Outline p1.png" /> -->
+![Content Outline Page 2](Content Outline p2.png)
+<!-- <img src="Content Outline p2.png" /> -->
 
 ## **SWOT Analysis** ##
-<!-- <img src="docs\Capstone\Images\SWOT Analysis.png" /> -->
+<img src="SWOT Analysis.png" />
 
 ## **User Flow Diagram** ##
-<!-- <img src="docs\Capstone\Images\User Flow Diagram.png" /> -->
+<img src="User Flow Diagram.png" />
 
 ## <u> Wire Frames (Hand-crafted) </u> ##
+![WireFrame Page 1](wireFrame1.jpg)
+<!-- <img src="wireFrame1.jpg" /> -->
 
-<!-- <img src="docs\Capstone\Images\wireFrame1.jpg" /> -->
+<img src="wireFrame2.jpg" />
 
-<img src="docs\Capstone\Images\wireFrame2.jpg" />
+<img src="wireFrame3.jpg" />
 
-<img src="docs\Capstone\Images\wireFrame3.jpg" />
+<img src="wireFrame4.jpg" />
 
-<img src="docs\Capstone\Images\wireFrame4.jpg" />
-
-<img src="docs\Capstone\Images\wireFrame5.jpg" />
+<img src="wireFrame5.jpg" />
