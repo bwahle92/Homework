@@ -10,18 +10,19 @@ My market segment will those who wish to order a late-night meal within a local 
 <a href="https://app.mural.co/t/savvy7321/m/savvy7321/1727540223467/fdd658ec2ed43d457bec436a8a57cc9a664a6c17?sender=u10a69b585dcdfe392a4b2452"Mural></a>
 
 ## **Content Outline** ##
-<img src="docs/Capstone/Images/Content Outline p1.png" />
+![Content Outline ps1](docs/Capstone/Images/Content Outline p1.png)
+<!-- <img src="docs/Capstone/Images/Content Outline p1.png" /> -->
 <img src="docs\Capstone\Images\Content Outline p2.png" />
 
 ## **SWOT Analysis** ##
-<img src="docs\Capstone\Images\SWOT Analysis.png" />
+<!-- <img src="docs\Capstone\Images\SWOT Analysis.png" /> -->
 
 ## **User Flow Diagram** ##
-<img src="docs\Capstone\Images\User Flow Diagram.png" />
+<!-- <img src="docs\Capstone\Images\User Flow Diagram.png" /> -->
 
 ## <u> Wire Frames (Hand-crafted) </u> ##
 
-<img src="docs\Capstone\Images\wireFrame1.jpg" />
+<!-- <img src="docs\Capstone\Images\wireFrame1.jpg" /> -->
 
 <img src="docs\Capstone\Images\wireFrame2.jpg" />
 
