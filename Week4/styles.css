@@ -1,0 +1,27 @@
+
+body{
+  background-color: darkgray;
+}
+header{
+  border-color: black;
+  padding: 4%;
+  background-color: lightgray;
+}
+main{
+  background-color: beige;
+}
+img{
+  border-radius: 20px;
+  padding: 2px;
+  margin: 2px;
+  border-color: black;
+  background: black
+  position: relative
+}
+div.secondaryTitle{
+  text-align: center;
+}
+footer{
+  text-align: center;
+  background-color: white;
+}
