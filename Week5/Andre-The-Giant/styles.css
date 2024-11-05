@@ -20,9 +20,10 @@ div {
   margin: 10px;
 }
 
-@media (min-width: 376px) {
   #introPic {
     float: left;
+    width: 50%;
+    height: 50%;
   }
 
   #about-me {
@@ -36,7 +37,13 @@ div {
   #pro {
     width: auto;
   }
-}
+  #top {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: auto;
+    align-items: center;
+  }
 
 @media (max-width: 375px) {
   #introPic {
@@ -49,17 +56,14 @@ div {
     float: none;
     margin:auto;
   }
-  #top {
-    display: flex;
-  }
   #Stuff {
     display: inline;
   }
   #earlyCareer>img {
-    max-width: 335px;
+    max-width: 300px;
   }
   #hulk {
-    max-width: 335px;
+    max-width: 300px;
   }
   #achievements {
     text-align: center;
